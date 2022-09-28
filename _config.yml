@@ -4,3 +4,5 @@ plugins:
 
 title: Drupal Hands-on Test
 description: do not fork this repository, pay attention to the specs.
+github:
+  is_project_page: false
