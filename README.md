@@ -1,5 +1,3 @@
-# Drupal Hands-on Test
-do not fork this repository, pay attention to the specs.
 ## Technical requirements
 - You will deliver in a git repository of your choice. Mind your commit routine, make declarative clean commits.
 - You must use [composer](https://www.drupal.org/docs/develop/using-composer/using-composer-to-install-drupal-and-manage-dependencies) to manage dependencies.
