@@ -5,3 +5,22 @@
 header ul, footer p {
   display: none;
 }
+
+header {
+  background: #0678BE;
+ h1 {
+   color: #fff;
+   text-shadow: none;
+   &:before {
+      background: url(https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg);
+      display: inline-block;
+      content: "";
+      height: 49px;
+      width: 37px;
+     margin-right: 6px;
+    }
+  }
+  p {
+   color: white; 
+  }
+}
