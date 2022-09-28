@@ -11,6 +11,8 @@ header {
  h1 {
    color: #fff;
    text-shadow: none;
+   display: flex;
+  align-items: center;
    &:before {
       background: url(https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg);
       display: inline-block;
