@@ -1,5 +1,7 @@
+---
+---
 @import "{{ site.theme }}";
 
-header ul {
+header ul, footer p {
   display: none;
 }
