@@ -5,7 +5,11 @@
 - You will document any necessary steps to install your solution in a "ReadMe" file in your projects root.
 
 ## Scenario
-> You will create a Movie Catalog site and We will evaluate your **Understanding Drupal and working with a Drupal Site, Content Modeling, Site Display, Site Configuration, Contributed Module and Theme Management, Security and Performance** skills.
+You will create a Movie Catalog site. <br>
+> Evaluated in this test:<br>
+ **Understanding Drupal and working with a Drupal Site<br> Content Modeling<br> Site Display<br> Site Configuration<br> Contributed Module and Theme Management<br> Security and Performance****<br>
+ skills.
+ 
 Create content for at least 10 movies and 3 actors for each movie.
 
 
