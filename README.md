@@ -3,6 +3,7 @@
 - You must use [composer](https://www.drupal.org/docs/develop/using-composer/using-composer-to-install-drupal-and-manage-dependencies) to manage dependencies.
 - Drupal recommended project [composer boilerplate](https://github.com/drupal/recommended-project)
 - You will document any necessary steps to install your solution in a "ReadMe" file in your projects root.
+- Are you a experienced GIT user? Mind your commit routine.
 
 ## Scenario
 You will create a Movie Catalog site. <br>
@@ -26,6 +27,3 @@ Create content for at least 10 movies and 3 actors for each movie.
 - Drupal Configs must be versioned.
 - A database dump must be available at the projects root for the content data.
 - Database dump and config files must be synchronized.
-
-## Questions?
-[https://forms.office.com/r/rD6LyRp9Fn](https://forms.office.com/r/rD6LyRp9Fn)
