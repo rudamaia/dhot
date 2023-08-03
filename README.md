@@ -3,7 +3,6 @@
 - You must use [composer](https://www.drupal.org/docs/develop/using-composer/using-composer-to-install-drupal-and-manage-dependencies) to manage dependencies.
 - Drupal recommended project [composer boilerplate](https://github.com/drupal/recommended-project)
 - You will document any necessary steps to install your solution in a "ReadMe" file in your projects root.
-- Are you a experienced GIT user? Mind your commit routine.
 
 ## Scenario
 You will create a Movie Catalog site. <br>
